@@ -1,0 +1,32 @@
+*{
+    text-align: center;
+}
+
+html, body{
+    height: 100;
+}
+
+*{
+    background: linear-gradient(to bottom, #dbe9d8, #a7c4a0, #6b8e6b); 
+  color: #2e3d2f;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+  
+}
+
+img{
+    border-radius: 900px;
+    width: 35%;
+    height: auto;
+    transition: 0.3 ease-in;
+    transform: 0.3 ease;
+}
+
+img:hover{
+    scale: 1.2;
+}
+h2{
+    font-weight: normal;
+    font-style: normal;
+}
